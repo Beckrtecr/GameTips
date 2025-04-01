@@ -1,11 +1,11 @@
-
 a {
     font-size: 25px;
     color: #000000;
     font-weight: 1000;
     border: 5px solid rgb(255, 0, 255);
     background-color: rgb(255, 0, 0);
-
+    display: inline-block;
+    margin-bottom: 4px;
 }
 
 nav {
@@ -29,5 +29,4 @@ img {
     border-radius: 4px;
     padding: 5px;
     width: 150px;
-
 }
